@@ -13,11 +13,11 @@ def first_challenge
           :name => "Romeo",
           :age => "15"
        },
-       :hero_friends => [
-         {
-           :name => "Benvolio",
-           :age => "17",
-           :attitude => "worried"
+        :hero_friends => [
+          {
+            :name => "Benvolio",
+            :age => "17",
+            :attitude => "worried"
          },
          {
            :name => "Mercutio"
@@ -26,7 +26,7 @@ def first_challenge
          }
         ]
        },
-       :capulet => {
+        :capulet => {
          :patriach => {
            :name => "Lord Capulet",
            :age => "50"
